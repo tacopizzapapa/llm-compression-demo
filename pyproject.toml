@@ -1,0 +1,12 @@
+[project]
+name = "compress-demo"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "chex>=0.1.92",
+    "numpy>=2.4.6",
+    "torch>=2.13.0",
+    "transformers>=5.16.1",
+]
